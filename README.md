@@ -6,5 +6,5 @@ Este proyecto se desarrollo con .NET 6, JWT, Entity Framework, Sql Server.
 
 ## Preview
 
-![](/Preview.png)
+![](/Preview01.png)
 
